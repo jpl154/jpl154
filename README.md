@@ -1,1 +1,1 @@
-![metrics](./controllers_brief.svg)
+![metrics](./github-metrics.svg)
